@@ -22,15 +22,15 @@
 
 }
 .what-we-do-images li:nth-child(1) {
-    background: #ffffff url("./images/imagen1.jpg") no-repeat right top;
+    background: #ffffff url("../images/imagen1.jpg") no-repeat right top;
 }
 
 .what-we-do-images li:nth-child(2) {
-    background: #ffffff url("./images/imagen2.jpg") no-repeat right top;
+    background: #ffffff url("../images/imagen2.jpg") no-repeat right top;
 }
 
 .what-we-do-images li:nth-child(3) {
-    background: #ffffff url("./images/imagen3.jpg") no-repeat right top;
+    background: #ffffff url("../images/imagen3.jpg") no-repeat right top;
 }
 
 .what-we-do-images-item {
